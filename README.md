@@ -20,7 +20,7 @@ This is a single-paged web application that meets the PWA requirements, meaning 
 ![lighthouse pwa report](./client/dist/assets/lighthouse.report.ss.png)
 
 ## Usage 
-To use this application go to the deployed website [here](), once you're there you can just use the application in your browser or you can click 'Install!' button in the top left corner on the browser and install the application following the steps in your browser.
+To use this application go to the deployed website [here](https://justanothertexteditor.onrender.com), once you're there you can just use the application in your browser or you can click 'Install!' button in the top left corner on the browser and install the application following the steps in your browser.
 
 ## Credits
 - [npm](https://www.npmjs.com/)
